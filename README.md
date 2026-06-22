@@ -151,6 +151,10 @@ and success criteria. The dashboard was built to spec against this document.
 <img width="1648" height="887" alt="Screenshot 2026-06-22 at 11 22 40 AM" src="https://github.com/user-attachments/assets/841ead70-67d1-4f66-a763-495b793a4d16" />
 <img width="1648" height="887" alt="Screenshot 2026-06-22 at 11 23 12 AM" src="https://github.com/user-attachments/assets/315d038d-e1d9-4f55-958a-c689c607e453" />
 <img width="1648" height="887" alt="Screenshot 2026-06-22 at 11 23 36 AM" src="https://github.com/user-attachments/assets/7dad3071-ebdc-4dbe-b97f-04d65aea6dae" />
+
+## Download
+Full .pbix file available on request via 
+[Google Drive](https://drive.google.com/drive/folders/1xqW-C5fExQZfkrAp2e55MLhxirJLLyR0?usp=sharing))
 ---
 ## About
 
